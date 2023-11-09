@@ -31,7 +31,7 @@ Data Structures and Algorithms, BlockChain Technology, Cloud Computing and Web D
 ![](https://github-profile-trophy.vercel.app/?username=RS-labhub&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-<span align='center'> ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light) </span>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ### 🔝 Top Contributed Repo
 
