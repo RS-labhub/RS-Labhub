@@ -3,6 +3,7 @@
 </p>
 
 # 💫 About Me:
+
 <p align='center'>
 Data Structures and Algorithms, BlockChain Technology, Cloud Computing and Web Development.
 </p>
