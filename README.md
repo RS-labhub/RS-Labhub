@@ -1,7 +1,13 @@
 
-<div align='center'>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/FarukhS52/count.svg" />
+</p>
+
+
 [![](https://visitcount.itsvg.in/api?id=RS-labhub&icon=5&color=10)](https://visitcount.itsvg.in)
-</div>
+
+
 
 # 💫 About Me:
 <p align='center'>
@@ -25,9 +31,7 @@ Data Structures and Algorithms, BlockChain Technology, Cloud Computing and Web D
 ![](https://github-profile-trophy.vercel.app/?username=RS-labhub&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-<p align='center'>
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-</p>
+<img align='center' src='![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)'>
 
 ### 🔝 Top Contributed Repo
 <p align='center'>
