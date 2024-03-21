@@ -36,6 +36,14 @@
 
 <p><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rs-labhub&" alt="rs-labhub" /></p>
 
+<p align="left">
+  [![RohanSrma's GitHub | Languages Over Time](https://stats.quine.sh/RohanSrma/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=RohanSrma)
+</p>
+
+<p align="right">
+  [![RohanSrma's GitHub | Dependencies](https://stats.quine.sh/RohanSrma/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=RohanSrma)
+</p>
+
 ### 😂 Random Dev Meme
 <p align='center'>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
