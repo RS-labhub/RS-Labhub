@@ -1,3 +1,5 @@
+<img align="right" width="40px" src="![RS LOGO](https://github.com/RS-labhub/RS-Labhub/assets/117426013/19b55a93-2e05-4653-a096-71f3307123af)">
+
 <h1 align="center">Hi 👋, I'm Rohan Sharma</h1>
 <h3 align="center">A passionate Coder</h3>
 
@@ -42,9 +44,4 @@
 
 <p align="left">
   <img src="https://stats.quine.sh/RohanSrma/dependencies?theme=light" width="400" />
-</p>
-
-### 😂 Random Dev Meme
-<p align='center'>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </p>
