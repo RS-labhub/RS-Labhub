@@ -19,7 +19,7 @@
 ## **GITHUB TROPHIES** 🏆
 <img src="https://github-profile-trophy.vercel.app/?username=RS-labhub&theme=onedark&column=-1&margin-w=8&no-frame=true&no-bg=true" alt="RS-labhub" /></a>
 
-<hr>
+# 
 
 <br>
 
@@ -27,7 +27,7 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=100&color=660099&background=FFFFFF&center=true&multiline=true&random=false&width=700&height=80&lines=A+nerd+who+is+trying+to+learn+;something+new+everyday+%F0%9F%98%81" alt="Typing SVG" /></a>
 </span>
 
-<br><br><br>
+<br><br>
 
 <span align="left">
 
