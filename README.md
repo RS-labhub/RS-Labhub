@@ -119,6 +119,9 @@
     <img src="https://stats.quine.sh/RohanSrma/dependencies?theme=light" width="49%" />
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RS-labhub&theme=swift)
+<div align="center" width="100%">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RS-labhub&theme=swift)
+</div>
 
 [![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RS-labhub&theme=react)](https://github.com/RS-labhub/RS-Labhub/github-readme-activity-graph)
