@@ -1,4 +1,4 @@
-<img align="right" width="40px" src="![RS LOGO](https://github.com/RS-labhub/RS-Labhub/assets/117426013/19b55a93-2e05-4653-a096-71f3307123af)">
+<img align="right" width="40px" src="![RS LOGO](https://github.com/RS-labhub/RS-Labhub/assets/117426013/06498501-5e6b-432b-8f7a-0af7c9796a3e)">
 
 <h1 align="center"><b>Hi there<b><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
@@ -19,7 +19,7 @@
 ## **GITHUB TROPHIES** 🏆
 <img src="https://github-profile-trophy.vercel.app/?username=RS-labhub&theme=onedark&column=-1&margin-w=8&no-frame=true&no-bg=true" alt="RS-labhub" /></a>
 
-# 
+<hr>
 
 <br>
 
@@ -27,7 +27,7 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=100&color=660099&background=FFFFFF&center=true&multiline=true&random=false&width=700&height=80&lines=A+nerd+who+is+trying+to+learn+;something+new+everyday+%F0%9F%98%81" alt="Typing SVG" /></a>
 </span>
 
-<br><br>
+<br><br><br>
 
 <span align="left">
 
@@ -85,7 +85,7 @@
 
 <br><br>
 
-<h2 align="left">Coding and Writing 🧑‍💻</h2>
+<h2 align="left">Coding and Writing Profiles 🧑‍💻</h2>
 <p align="center">
     <a href="https://hashnode.com/https://hashnode.com/@rrs007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@rrs007" width="50" /></a>
     <a href="https://www.codechef.com/users/rohansrma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rohansrma" width="50" /></a>
@@ -97,18 +97,28 @@
 
 <br><br>
 
-<p><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rs-labhub&show_icons=true&locale=en&layout=compact" alt="rs-labhub" /></p>
-
-<p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rs-labhub&show_icons=true&locale=en" alt="rs-labhub" /></p>
-
-<p><br><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rs-labhub&" alt="rs-labhub" /></p>
-
-<p align="right">
-  <img src="https://stats.quine.sh/RohanSrma/github?theme=light" width="300" />
+<!-- <p><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rs-labhub&show_icons=true&locale=en&layout=compact" alt="rs-labhub" />
 </p>
 
-<p align="center">
-  <img src="https://stats.quine.sh/RohanSrma/dependencies?theme=light" width="300" />
+<p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rs-labhub&show_icons=true&locale=en" alt="rs-labhub" />
 </p>
 
-[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RS-labhub&theme=rogue)](https://github.com/RS-labhub/RS-Labhub/github-readme-activity-graph)
+<p><br><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rs-labhub&" alt="rs-labhub" />
+</p> -->
+
+<br><br>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RS-labhub&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RS-labhub&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RS-labhub&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RS-labhub&theme=vue&utcOffset=8)
+
+<div align="center">
+    <img src="https://stats.quine.sh/RohanSrma/github?theme=light" width="50%" />
+    <img src="https://stats.quine.sh/RohanSrma/dependencies?theme=light" width="50%" />
+</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RS-labhub&theme=swift)
+
+[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RS-labhub&theme=react)](https://github.com/RS-labhub/RS-Labhub/github-readme-activity-graph)
