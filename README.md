@@ -19,7 +19,7 @@
 ## **GITHUB TROPHIES** 🏆
 <img src="https://github-profile-trophy.vercel.app/?username=RS-labhub&theme=onedark&column=-1&margin-w=8&no-frame=true&no-bg=true" alt="RS-labhub" /></a>
 
-<hr>
+# 
 
 <br>
 
