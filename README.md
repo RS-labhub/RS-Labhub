@@ -103,4 +103,6 @@
     <img src="https://stats.quine.sh/RohanSrma/dependencies?theme=light" width="49%" />
 </div>
 
+<br>
+
 [![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RS-labhub&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/RS-labhub/RS-Labhub/github-readme-activity-graph)
