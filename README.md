@@ -115,8 +115,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RS-labhub&theme=vue&utcOffset=8)
 
 <div align="center">
-    <img src="https://stats.quine.sh/RohanSrma/github?theme=light" width="50%" />
-    <img src="https://stats.quine.sh/RohanSrma/dependencies?theme=light" width="50%" />
+    <img src="https://stats.quine.sh/RohanSrma/github?theme=light" width="49%" />
+    <img src="https://stats.quine.sh/RohanSrma/dependencies?theme=light" width="49%" />
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RS-labhub&theme=swift)
