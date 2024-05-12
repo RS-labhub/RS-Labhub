@@ -113,15 +113,14 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RS-labhub&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RS-labhub&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RS-labhub&theme=vue&utcOffset=8)
+<div align="right" width="100%">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RS-labhub&theme=swift)
+</div>
 
 <div align="center">
     <img src="https://stats.quine.sh/RohanSrma/github?theme=light" width="49%" />
     <img src="https://stats.quine.sh/RohanSrma/dependencies?theme=light" width="49%" />
-</div>
-
-<div align="center" width="100%">
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RS-labhub&theme=swift)
 </div>
 
 [![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RS-labhub&theme=react)](https://github.com/RS-labhub/RS-Labhub/github-readme-activity-graph)
