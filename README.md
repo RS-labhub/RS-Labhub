@@ -1,7 +1,6 @@
-<div align="right" width="40px">
-	![RS LOGO](https://github.com/RS-labhub/RS-Labhub/assets/117426013/694116ff-5951-4795-a729-f1dcd08664a3)
+<div align="right" >
+  <small>Light mode Recommended</small>
 </div>
-<small>Light mode Recommended</small>
 
 <h1 align="center"><b>Hi there<b><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
