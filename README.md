@@ -1,4 +1,6 @@
-<img align="right" width="40px" src="![RS LOGO](https://github.com/RS-labhub/RS-Labhub/assets/117426013/694116ff-5951-4795-a729-f1dcd08664a3)">
+<div align="right" width="40px">
+	![RS LOGO](https://github.com/RS-labhub/RS-Labhub/assets/117426013/694116ff-5951-4795-a729-f1dcd08664a3)
+</div>
 <small>Light mode Recommended</small>
 
 <h1 align="center"><b>Hi there<b><picture>
