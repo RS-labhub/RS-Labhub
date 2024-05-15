@@ -1,4 +1,5 @@
-<img align="right" width="40px" src="![RS LOGO](https://github.com/RS-labhub/RS-Labhub/assets/117426013/06498501-5e6b-432b-8f7a-0af7c9796a3e)">
+<img align="right" width="40px" src="![RS LOGO](https://github.com/RS-labhub/RS-Labhub/assets/117426013/694116ff-5951-4795-a729-f1dcd08664a3)">
+<small>Light mode Recommended</small>
 
 <h1 align="center"><b>Hi there<b><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
