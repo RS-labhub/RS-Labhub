@@ -22,7 +22,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=RS-labhub&theme=onedark&column=-1&margin-w=8&no-frame=true&no-bg=true" alt="RS-labhub" /></a>
 
 ## GITHUB STATS
-[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RS-labhub\&rank icon=percentile)](https://github.com/RS-labhub/github-readme-stats)
+[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RS-labhub\&rank_icon=percentile)](https://github.com/RS-labhub/github-readme-stats)
 
 # 
 
