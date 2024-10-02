@@ -21,10 +21,7 @@
 ## **GITHUB TROPHIES** 🏆
 <img src="https://github-profile-trophy.vercel.app/?username=RS-labhub&theme=onedark&column=-1&margin-w=8&no-frame=true&no-bg=true" alt="RS-labhub" /></a>
 
-## GITHUB STATS
-[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RS-labhub\&rank_icon=percentile)](https://github.com/RS-labhub/github-readme-stats)
-
-# 
+&nbsp;
 
 <br>
 
@@ -97,6 +94,10 @@
 </p>
 
 <br><br><br><br>
+
+
+## GITHUB STATS
+[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RS-labhub\&rank_icon=percentile)](https://github.com/RS-labhub/github-readme-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RS-labhub&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RS-labhub&theme=vue)
