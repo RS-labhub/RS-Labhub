@@ -5,12 +5,14 @@ Just an ordinary person. Single since day one. 21 y/o. Almost skinny. Story writ
 
 Current Position(s):
 - DevRel Engineer [@llmware](https://github.com/llmware-ai/llmware)
+- Developer Experience Engineer [@tessl](https://tessl.io/)
 - Core Community Member & Manager, Developer Relations [@Developer_EcoSystem](https://github.com/thedeveco/thedeveco.com)
+- Developer Content Strategist [@Pantacor](https://pantacor.com/)
 - Developer Advocate [@Quira](https://quira.sh/)
  
 &nbsp;
 
-**Not looking for any opportunity** rn, available for contract but 10 hrs/week only. ([Check my Portfolio](https://rohan-sharma-portfolio.vercel.app/experience))
+**Not looking for any opportunity** right now. But if you still want to know more about me, then please [Checkout my Portfolio](https://rohan-sharma-portfolio.vercel.app/experience).
 
 &nbsp;
 
@@ -28,11 +30,13 @@ Current Position(s):
 
 &nbsp;
 
-A **profesional blog writer**, check out my blog on [dev.to/@rohan_sharma](https://dev.to/rohan_sharma), [medium/@specialrohansharma200](https://medium.com/@specialrohansharma200), [hashnode/@rrs007](https://hashnode.com/@rrs007), and [geeksforgeek/@rohansrma007](https://www.geeksforgeeks.org/user/rohansrma007/contributions).
+A **profesional blog writer**, check out my blogs on [dev.to/@rohan_sharma](https://dev.to/rohan_sharma), and [medium/@specialrohansharma200](https://medium.com/@specialrohansharma200). I also write or republishes my content on [hashnode/@rrs007](https://hashnode.com/@rrs007), and [geeksforgeek/@rohansrma007](https://www.geeksforgeeks.org/user/rohansrma007/contributions).
 
 &nbsp;
 
-Here's are my socials: `specialrohansharma200@gmail.com`, [linkedin](https://www.linkedin.com/in/rohan-sharma-9386rs/), [X/twitter](https://x.com/rrs00179), Discord(`rohansrma`),and [instagram](https://www.instagram.com/r_rohan__._/)
+Here's are my socials: [linkedin](https://www.linkedin.com/in/rohan-sharma-9386rs/), [X/twitter](https://x.com/rrs00179), [discord](https://discordapp.com/users/1062048216578793482),and [instagram](https://www.instagram.com/r_rohan__._/)
+
+Contact Email: `specialrohansharma200@gmail.com` (if you don't want to talk to me on socials, then use this super platform)
 
 &nbsp;
 
