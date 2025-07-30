@@ -5,6 +5,7 @@ Just an ordinary person. Single since day one. 21 y/o. Almost skinny. Story writ
 
 Current Position(s):
 - DevRel Engineer [@llmware](https://github.com/llmware-ai/llmware)
+- Developer Experience Engineer [@Tessl](https://tessl.io)
 - Core Community Member & Manager, Developer Relations [@Developer_EcoSystem](https://github.com/thedeveco/thedeveco.com)
 - Developer Advocate [@Quira](https://quira.sh/)
  
