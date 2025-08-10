@@ -7,7 +7,10 @@ Current Position(s):
 - DevRel Engineer [@llmware](https://github.com/llmware-ai/llmware)
 - Developer Experience Engineer [@Tessl](https://tessl.io)
 - Core Community Member & Manager, Developer Relations [@Developer_EcoSystem](https://github.com/thedeveco/thedeveco.com)
-- Developer Advocate [@Quira](https://quira.sh/)
+
+Past Experience (s):
+- Developer Advocate and Community Moderator [@Quira](https://quira.sh/) (1.5 Years)
+- Community Moderator [@EndlessDomains](https://endlessdomains.io/) (2 Months)
  
 &nbsp;
 
