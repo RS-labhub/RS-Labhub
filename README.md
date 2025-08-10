@@ -8,7 +8,7 @@ Current Position(s):
 - Developer Experience Engineer [@Tessl](https://tessl.io)
 - Core Community Member & Manager, Developer Relations [@Developer_EcoSystem](https://github.com/thedeveco/thedeveco.com)
 
-Past Experience (s):
+Past Experience(s):
 - Developer Advocate and Community Moderator [@Quira](https://quira.sh/) (1.5 Years)
 - Community Moderator [@EndlessDomains](https://endlessdomains.io/) (2 Months)
  
