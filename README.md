@@ -1,5 +1,5 @@
 ## Hey there 👋, I'm Rohan Sharma
-Just an ordinary person. Single since day one. 21 y/o. Almost skinny. Story writer and director. No extra skills. Love Maths & Biology. Used to be a selfie person. Listen to songs all day. Watched F.R.I.E.N.D.S, Chandler and Joey are my fav.
+Just an ordinary person. Single since day one. 22 y/o. Almost skinny. Story writer and director. No extra skills. Love Maths & Biology. Used to be a selfie person. Listen to songs all day. Watched F.R.I.E.N.D.S, Chandler and Joey are my fav.
 
 &nbsp;
 
