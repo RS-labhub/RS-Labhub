@@ -10,7 +10,6 @@ Current Position(s):
 
 Past Experience(s):
 - Developer Advocate and Community Moderator [@Quira](https://quira.sh/) (1.5 Years)
-- Community Moderator [@EndlessDomains](https://endlessdomains.io/) (2 Months)
  
 &nbsp;
 
