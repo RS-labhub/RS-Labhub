@@ -23,7 +23,7 @@ Previously worked at:
 }
 ```
 
-Here's are my socials: [linkedin](https://www.linkedin.com/in/rohan-sharma-9386rs/), [X/twitter](https://x.com/rrs00179), [discord](https://discordapp.com/users/1062048216578793482),and [instagram](https://www.instagram.com/r_rohan__._/)
+Here are my socials: [linkedin](https://www.linkedin.com/in/rohan-sharma-9386rs/), [X/twitter](https://x.com/rrs00179), [discord](https://discordapp.com/users/1062048216578793482),and [instagram](https://www.instagram.com/r_rohan__._/)
 
 Contact Email: [`specialrohansharma200@gmail.com`](mailto:specialrohansharma200@gmail.com)
 
