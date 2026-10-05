@@ -5,9 +5,9 @@ Currently working at:
 - DevRel Engineer [@llmware](https://github.com/llmware-ai/llmware)
 
 Previously worked at:
-- Developer Experience Engineer [@Tessl](https://tessl.io) (1 Yrs 2 Mo)
-- Developer Advocate and Community Moderator [@Quira](https://quira.sh/) (1 Years 5 Mo)
-- Core Community Member & Manager, Developer Relations [@Developer_EcoSystem](https://github.com/thedeveco/thedeveco.com) (1 Yrs 6 Mo)
+- Developer Experience Engineer [@Tessl](https://tessl.io) (1 Yr 2 Mo)
+- Developer Advocate and Community Moderator [@Quira](https://quira.sh/) (1 Yr 5 Mo)
+- Core Community Member & Manager, Developer Relations [@Developer_EcoSystem](https://github.com/thedeveco/thedeveco.com) (1 Yr 6 Mo)
 
 **Looking for any opportunity**. Want to know more about me, then please [Checkout my Portfolio](https://rohansrma.me/experience).
 
